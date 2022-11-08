@@ -28,8 +28,6 @@ public class Main{
 			return this.printName();
 		}
 		
-		
-		
 		public void sample() {
 		System.out.println("printNameメソッド　→　"+ firstName + lastName );
 		}
