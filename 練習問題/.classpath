@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding=".metadata/init.gradle_template_simple/src/main/java/|.metadata/init.gradle_template/src/main/java/|4-practice/src/" kind="src" path=""/>
+	<classpathentry kind="src" path=".metadata/init.gradle_template_simple/src/main/java"/>
+	<classpathentry kind="src" path=".metadata/init.gradle_template/src/main/java"/>
+	<classpathentry kind="src" path="4-practice/src"/>
+	<classpathentry kind="output" path="4-practice/bin"/>
+</classpath>
